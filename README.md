@@ -7,13 +7,7 @@ The simple functionality it provides:
 * 5 different quadrants: you can access them by using the number keys from 1 to 5, and 0 to show all quadrants.
 
 The start matrix
-![](SCREENSHOT/astar_default_matrix.png)
-   
-The path with diagonal movement enabled
-![](SCREENSHOT/astar_path_diag.png)
-   
-The path with diagonal movement disabled
-![](SCREENSHOT/astar_path_nodiag.png)
+![](SCREENSHOT/ffviimap_main.png)
    
 
 To compile this project, open a terminal (or command prompt) in the project's directory, and run:
